@@ -1,5 +1,5 @@
 # python-code
-#use key means clustering on the iris datasheet  and inter about tyour finding
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
